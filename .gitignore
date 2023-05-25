@@ -1,0 +1,10 @@
+
+.vs/
+
+App.Tests/bin/
+
+App/bin/
+
+App/obj/
+
+App.Tests/obj/
