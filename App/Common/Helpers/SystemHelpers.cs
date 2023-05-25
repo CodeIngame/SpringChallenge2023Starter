@@ -1,5 +1,7 @@
 ﻿namespace App.Common.Helpers
 {
+    using System;
+
     public class SystemHelpers
     {
         /// <summary>

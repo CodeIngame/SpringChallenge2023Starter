@@ -1,9 +1,8 @@
-﻿
-
-namespace App.Manager
+﻿namespace App.Manager
 {
     using App.Common;
     using App.Entities;
+    using System;
     using System.Collections.Generic;
 
     public interface IGameManager
