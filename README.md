@@ -9,6 +9,12 @@ Lorsque le projet `App`sera build, le résultat sera copié dans le dossier `Ouput
 Suivez le [tutoriel de codingame]("https://www.codingame.com/forum/t/codingame-sync-beta/614") pour syncrhoniser le fichier output.cs avec l'éditeur de code de codingame
 
 
+Il est possible que le script powershell ne doit pas autorisé à être executé sur votre machine.
+Pour corriger le soucis voir le lien suivant : 
+[Unrestricted](https://www.adminmalin.fr/powershell-autoriser-lexecution-de-scripts/)
+[Set-ExecutionPolicy](https://docs.microsoft.com/fr-fr/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.1)
+
+
 ## Usage
 Dans le projet App, le `program.cs` contient le code de l'IA
 
